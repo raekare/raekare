@@ -36,7 +36,7 @@
 ## 📫 如何联系我
 
 - **邮箱**: [fanruogu@seu.edu.cn]
-- **GitHub**: [https://github.com/raekare/raekare/edit/main/README.md]
+- **GitHub**: [https://github.com/raekare/raekare/edit/main]
 
 ---
 *感谢您的访问，欢迎交流！*
